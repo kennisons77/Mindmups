@@ -1,0 +1,124 @@
+{
+  "title": "RAILS Code Explorer",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "INTERFACES WITH",
+      "id": 11,
+      "ideas": {
+        "1": {
+          "title": "Rails Structure Ruleset",
+          "id": 12,
+          "ideas": {
+            "1": {
+              "title": "Find similar files that extend  base classtypes",
+              "id": 14
+            },
+            "1.5": {
+              "title": "Searches for Same name views/model/controller/helper/assets/mailers",
+              "id": 23,
+              "ideas": {
+                "1": {
+                  "title": "Scans model for relationships to other objects",
+                  "id": 24
+                }
+              }
+            }
+          }
+        },
+        "2": {
+          "title": "Scan of code for references",
+          "id": 16,
+          "attr": {
+            "style": {}
+          },
+          "ideas": {
+            "1": {
+              "title": "Search for references to defined class",
+              "id": 15,
+              "attr": {
+                "style": {}
+              }
+            },
+            "2": {
+              "title": "Routes File",
+              "id": 18,
+              "ideas": {
+                "1": {
+                  "title": "Rules set for various behavior of resource and other route defintions",
+                  "id": 19
+                }
+              },
+              "attr": {
+                "style": {}
+              }
+            },
+            "3": {
+              "title": "Gems File",
+              "id": 20,
+              "ideas": {
+                "1": {
+                  "title": "Gem Classes used highlighted",
+                  "id": 21
+                }
+              },
+              "attr": {
+                "style": {}
+              }
+            }
+          }
+        }
+      }
+    },
+    "-1": {
+      "title": "LISTS",
+      "id": 7,
+      "ideas": {
+        "1": {
+          "title": "Scans for functions used and previews Reference material loaded from localor or remote  IDE",
+          "id": 6,
+          "attr": {
+            "style": {}
+          }
+        },
+        "2": {
+          "title": "Github change history",
+          "id": 4,
+          "attr": {
+            "style": {}
+          }
+        },
+        "3": {
+          "title": "Other files that reference current",
+          "id": 3,
+          "ideas": {
+            "1": {
+              "title": "Leads to automatically generated, interactive MindMap of code structure",
+              "id": 5
+            },
+            "2": {
+              "title": "Knows to load  all files with same file/class name",
+              "id": 9
+            }
+          },
+          "attr": {
+            "style": {}
+          }
+        },
+        "4": {
+          "title": "Autocollapsed function/object outline view",
+          "id": 8
+        },
+        "2.5": {
+          "title": "TODO List linking to tasks",
+          "id": 10
+        }
+      },
+      "attr": {
+        "style": {}
+      }
+    }
+  },
+  "links": []
+}
