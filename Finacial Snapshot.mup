@@ -1,0 +1,59 @@
+{
+  "title": "Finacial Snapshot",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "Institution",
+      "id": 2,
+      "ideas": {
+        "1": {
+          "title": "Account",
+          "id": 3,
+          "ideas": {
+            "1": {
+              "title": "Transactions",
+              "id": 4
+            }
+          }
+        }
+      }
+    },
+    "-1": {
+      "title": "Categories",
+      "id": 5,
+      "ideas": {
+        "1": {
+          "title": "Spending",
+          "id": 6
+        },
+        "2": {
+          "title": "Savings",
+          "id": 7
+        },
+        "3": {
+          "title": "Debt",
+          "id": 8
+        }
+      }
+    },
+    "-11": {
+      "title": "Elements",
+      "id": 9,
+      "ideas": {
+        "1": {
+          "title": "Initial Balance",
+          "id": 10
+        },
+        "2": {
+          "title": "Current Balance",
+          "id": 11
+        },
+        "3": {
+          "title": "Transaction Total",
+          "id": 12
+        }
+      }
+    }
+  }
+}
