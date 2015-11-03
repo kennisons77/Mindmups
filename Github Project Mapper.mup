@@ -1,0 +1,113 @@
+{
+  "title": "Github Project Mapper",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "Framework",
+      "id": 3,
+      "ideas": {
+        "3": {
+          "title": "Objects",
+          "id": 15,
+          "ideas": {},
+          "attr": {
+            "style": {}
+          }
+        },
+        "4": {
+          "title": "Directories",
+          "id": 16,
+          "ideas": {
+            "1": {
+              "title": "Files (Represent or refference)",
+              "id": 17,
+              "ideas": {
+                "1": {
+                  "title": "Type",
+                  "id": 19,
+                  "ideas": {
+                    "1": {
+                      "title": "Patterns",
+                      "id": 20
+                    },
+                    "2": {
+                      "title": "Rules",
+                      "id": 21
+                    }
+                  }
+                },
+                "2": {
+                  "title": "Contents (reference)",
+                  "id": 22
+                }
+              }
+            },
+            "2": {
+              "title": "Rules",
+              "id": 4,
+              "ideas": {},
+              "attr": {
+                "style": {}
+              }
+            },
+            "3": {
+              "title": "Hierarchy",
+              "id": 8,
+              "attr": {
+                "style": {}
+              },
+              "ideas": {
+                "1": {
+                  "title": "Directory Pattern",
+                  "id": 11,
+                  "ideas": {
+                    "1": {
+                      "title": "Required",
+                      "id": 12,
+                      "ideas": {
+                        "1": {
+                          "title": "Root",
+                          "id": 14
+                        }
+                      }
+                    },
+                    "2": {
+                      "title": "Optional",
+                      "id": 13
+                    }
+                  }
+                },
+                "2": {
+                  "title": "Relationships",
+                  "id": 9,
+                  "attr": {
+                    "style": {}
+                  }
+                }
+              }
+            }
+          },
+          "attr": {
+            "style": {}
+          }
+        }
+      },
+      "attr": {
+        "style": {}
+      }
+    }
+  },
+  "links": [
+    {
+      "ideaIdFrom": 22,
+      "ideaIdTo": 15,
+      "attr": {
+        "style": {
+          "color": "#FF0000",
+          "lineStyle": "dashed"
+        }
+      }
+    }
+  ]
+}
